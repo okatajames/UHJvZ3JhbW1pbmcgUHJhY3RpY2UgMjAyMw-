@@ -1,0 +1,19 @@
+{
+    "slug": "python-beginner-programming-exercises",
+    "title": "Learn Python Interactively (beginner)",
+    "intro": "https://www.youtube.com/watch?v=amyDNhZwGJQ",
+    "repository": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises",
+    "preview": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/preview.png?raw=true",
+    "description": "Python Exercises for beginners, from Hello World to variables, loops and a little bit of functions",
+    "duration": 10,
+    "difficulty": "easy",
+    "videoSolutions": true,
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "graded": true,
+    "language": "python3",
+    
+        "editor": {
+            "version": "1.0.73"
+        }
+    
+}
